@@ -1,8 +1,8 @@
 import Image from 'next/image';
-import { Autoplay } from "swiper";
 import "swiper/css";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { SectionTitle } from '../../Elements/SectionTitle';
+import { Autoplay } from 'swiper/modules';
 const LiveAuctions = () => {
     return (
         <section className='lg:pb-158px md:pb-80px pb-60px '>

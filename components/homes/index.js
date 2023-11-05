@@ -1,6 +1,6 @@
 import Wrapper from "../Layout/wrapper";
 import HeroSection from '../hero-sections/heroSection';
-import { AuctionDeals, Brand, CTA, Collection, CreateAndSell, Creators, Discover, TopSelling } from "../widgets";
+import { AuctionDeals, Brand, CTA, Collection, CreateAndSell, Creators, Discover, LiveAuctions, TopSelling, TrendingAuction } from "../widgets";
 const Index = () => {
   return (
     <Wrapper>
@@ -17,7 +17,7 @@ const Index = () => {
       {/* TOP_SELLING::START  */}
 
       {/* LiveAuctions::Start  */}
-      {/* <LiveAuctions /> */}
+      <LiveAuctions />
       {/* LiveAuctions::Start  */}
 
       {/* Discover::start  */}
@@ -25,7 +25,7 @@ const Index = () => {
       {/* Discover::start  */}
 
       {/* TrendingAuction::start  */}
-      {/* <TrendingAuction/> */}
+      <TrendingAuction/>
       {/* TrendingAuction::end  */}
 
       {/* CreateAndSell::start  */}
@@ -37,7 +37,7 @@ const Index = () => {
       {/* Creators::start  */}
 
       {/* Collection::START  */}
-      {/* <Collection /> */}
+      <Collection />
       {/* Collection::END  */}
 
       {/* Brand::START  */}

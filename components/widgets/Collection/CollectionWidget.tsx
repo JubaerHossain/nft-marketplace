@@ -9,7 +9,7 @@ import "swiper/css/free-mode";
 import "swiper/css/navigation";
 import "swiper/css/thumbs";
 import SwiperClass from "swiper/types/swiper-class";
-import SwiperCore, { FreeMode, Navigation, Thumbs, Controller, Autoplay } from "swiper";
+import SwiperCore, { FreeMode, Navigation, Thumbs, Controller, Autoplay } from "swiper/modules";
 
 interface itemProps {
     collectionItem: {

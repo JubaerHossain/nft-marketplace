@@ -1,6 +1,6 @@
-import { Autoplay } from "swiper";
+import { Autoplay } from "swiper/modules";
 import "swiper/css";
-import { Swiper, SwiperSlide } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
 import trandingAuctions from "../../../pages/api/tranding_auctions.json";
 import { ThemeLineButton } from "../../Elements/Button";
 import { SectionTitle } from "../../Elements/SectionTitle";
