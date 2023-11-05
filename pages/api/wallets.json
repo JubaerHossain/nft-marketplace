@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/imgs/wallets/1.png",
+        "title" : "MetaMask",
+        "desc" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+    },
+    {
+        "id": 1,
+        "img": "/assets/imgs/wallets/2.png",
+        "title" : "WalleteConnect",
+        "desc" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+    },
+    {
+        "id": 1,
+        "img": "/assets/imgs/wallets/3.png",
+        "title" : "Dapper",
+        "desc" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+    },
+    {
+        "id": 1,
+        "img": "/assets/imgs/wallets/4.png",
+        "title" : "Kaikas",
+        "desc" : "Lorem ipsum dolor sit amet,consectetur adipiscing elit."
+    }
+
+]

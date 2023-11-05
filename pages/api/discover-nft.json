@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Trending NFT",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 2,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Holiday Wolf",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 3,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Mutant",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 4,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Cyborg",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 5,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Sports",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 6,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Sports",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 7,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Cyborg",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 8,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Sports",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 9,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Sports",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 10,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Cyborg",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 11,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Mutant",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 12,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Mutant",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 13,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Holiday Wolf",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 14,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Holiday Wolf",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 15,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Holiday Wolf",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    },
+    {
+        "id": 16,
+        "img": "/assets/imgs/discover/discover_1.png",
+        "round_img": "/assets/imgs/Creators/round_image_1.png",
+        "title" : "ArtCrypto",
+        "current_bid" : "0.04 ETH",
+        "time" : "5h 25m 3s left",
+        "category" : "Trending NFT",
+        "small_imgs": ["/assets/imgs/discover/discover_small_1.png", "/assets/imgs/discover/discover_small_2.png", "/assets/imgs/discover/discover_small_1.png","/assets/imgs/discover/discover_small_3.png", "/assets/imgs/discover/discover_small_3.png"]
+    }
+
+]

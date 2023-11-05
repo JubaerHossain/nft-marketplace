@@ -1,0 +1,165 @@
+[
+    {
+        "id": 1,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_1.png",
+        "title" : "The Digital Art",
+        "currency" : "0.787 ETH",
+        "loved": "3.5k"
+    },
+    {
+        "id": 2,
+        "subText" : "Time Remaing",
+        "countDown_time" : "16D : 13H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_2.png",
+        "title" : "The Tech Art",
+        "currency" : "0287 ETH",
+        "loved": "4.5k"
+    },
+    {
+        "id": 3,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_3.png",
+        "title" : "Smart Tech",
+        "currency" : "1187 ETH",
+        "loved": "35.5k"
+    },
+    {
+        "id": 4,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_4.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 5,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_5.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 6,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_6.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 7,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_1.png",
+        "title" : "The Digital Art",
+        "currency" : "0.787 ETH",
+        "loved": "3.5k"
+    },
+    {
+        "id": 8,
+        "subText" : "Time Remaing",
+        "countDown_time" : "16D : 13H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_2.png",
+        "title" : "The Tech Art",
+        "currency" : "0287 ETH",
+        "loved": "4.5k"
+    },
+    {
+        "id": 9,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_3.png",
+        "title" : "Smart Tech",
+        "currency" : "1187 ETH",
+        "loved": "35.5k"
+    },
+    {
+        "id": 10,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_4.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 11,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_5.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 12,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_6.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 13,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_1.png",
+        "title" : "The Digital Art",
+        "currency" : "0.787 ETH",
+        "loved": "3.5k"
+    },
+    {
+        "id": 14,
+        "subText" : "Time Remaing",
+        "countDown_time" : "16D : 13H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_2.png",
+        "title" : "The Tech Art",
+        "currency" : "0287 ETH",
+        "loved": "4.5k"
+    },
+    {
+        "id": 15,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_3.png",
+        "title" : "Smart Tech",
+        "currency" : "1187 ETH",
+        "loved": "35.5k"
+    },
+    {
+        "id": 16,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_4.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 17,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_5.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    },
+    {
+        "id": 18,
+        "subText" : "Time Remaing",
+        "countDown_time" : "15D : 23H : 45 : 23S",
+        "img": "/assets/imgs/trading/trading_6.png",
+        "title" : "The Digital Art",
+        "currency" : "1187 ETH",
+        "loved": "5.5k"
+    }
+
+]

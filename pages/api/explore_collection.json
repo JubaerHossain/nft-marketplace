@@ -1,0 +1,115 @@
+[
+    {
+        "id": 1,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_995",
+        "sub_text" : "09B..3m90f",
+        "category" : "Holiday Wolf"
+    },
+    {
+        "id": 2,
+        "img": "/assets/imgs/explore/2.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_880",
+        "sub_text" : "09B..3m90f",
+        "category" : "Mutant Wolf"
+    },
+    {
+        "id": 3,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_990",
+        "sub_text" : "09B..3m90f",
+        "category" : "Holiday Wolf"
+    },
+    {
+        "id": 4,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_991",
+        "sub_text" : "09B..3m90f",
+        "category" : "Robot Cyborg"
+    },
+    {
+        "id": 5,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_992",
+        "sub_text" : "09B..3m90f",
+        "category" : "Cyborg 5"
+    },
+    {
+        "id": 6,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_993",
+        "sub_text" : "09B..3m90f",
+        "category" : "Curt Nun"
+    },
+    {
+        "id": 7,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_993",
+        "sub_text" : "09B..3m90f",
+        "category" : "Sports"
+    },
+    {
+        "id": 8,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_995",
+        "sub_text" : "09B..3m90f",
+        "category" : "Holiday Wolf"
+    },
+    {
+        "id": 9,
+        "img": "/assets/imgs/explore/2.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_880",
+        "sub_text" : "09B..3m90f",
+        "category" : "Mutant Wolf"
+    },
+    {
+        "id": 10,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_990",
+        "sub_text" : "09B..3m90f",
+        "category" : "Holiday Wolf"
+    },
+    {
+        "id": 11,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_991",
+        "sub_text" : "09B..3m90f",
+        "category" : "Robot Cyborg"
+    },
+    {
+        "id": 12,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_992",
+        "sub_text" : "09B..3m90f",
+        "category" : "Cyborg 5"
+    },
+    {
+        "id": 13,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_993",
+        "sub_text" : "09B..3m90f",
+        "category" : "Curt Nun"
+    },
+    {
+        "id": 14,
+        "img": "/assets/imgs/explore/1.png",
+        "round_img": "/assets/imgs/explore/small_1.png",
+        "title" : "Denim m_993",
+        "sub_text" : "09B..3m90f",
+        "category" : "Sports"
+    }
+
+]

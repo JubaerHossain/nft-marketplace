@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "title" : "The Legend of CockPick",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "0.475",
+        "item_collection" : "FLOW 1/2",
+        "collection_name" : "Jerry’s Drops",
+        "collector_profileName" : "Jerry Clark",
+        "imgs" : ["/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab1.png", "/assets/imgs/collections/slide_tab2.png", "/assets/imgs/collections/slide_tab3.png"]
+    },
+    {
+        "id": 2,
+        "title" : "Art Tech Reus Fusion",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "120",
+        "item_collection" : "FLOW 67/6",
+        "collection_name" : "Lusi’s Drops",
+        "collector_profileName" : "Lusi Mike",
+        "imgs" : ["/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab4.png", "/assets/imgs/collections/slide_tab5.png", "/assets/imgs/collections/slide_tab6.png"]
+    },
+    {
+        "id": 3,
+        "title" : "The Legend of CockPick",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "0.475",
+        "item_collection" : "FLOW 1/2",
+        "collection_name" : "Jerry’s Drops",
+        "collector_profileName" : "Jerry Clark",
+        "imgs" : ["/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab1.png", "/assets/imgs/collections/slide_tab2.png", "/assets/imgs/collections/slide_tab3.png"]
+    },
+    {
+        "id": 4,
+        "title" : "Art Tech Reus Fusion",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "120",
+        "item_collection" : "FLOW 67/6",
+        "collection_name" : "Lusi’s Drops",
+        "collector_profileName" : "Lusi Mike",
+        "imgs" : ["/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab4.png", "/assets/imgs/collections/slide_tab5.png", "/assets/imgs/collections/slide_tab6.png"]
+    },
+    {
+        "id": 5,
+        "title" : "The Legend of CockPick",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "0.475",
+        "item_collection" : "FLOW 1/2",
+        "collection_name" : "Jerry’s Drops",
+        "collector_profileName" : "Jerry Clark",
+        "imgs" : ["/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab1.png", "/assets/imgs/collections/slide_tab2.png", "/assets/imgs/collections/slide_tab3.png"]
+    },
+    {
+        "id": 6,
+        "title" : "Art Tech Reus Fusion",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "120",
+        "item_collection" : "FLOW 67/6",
+        "collection_name" : "Lusi’s Drops",
+        "collector_profileName" : "Lusi Mike",
+        "imgs" : ["/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab4.png", "/assets/imgs/collections/slide_tab5.png", "/assets/imgs/collections/slide_tab6.png"]
+    },
+    {
+        "id": 7,
+        "title" : "The Legend of CockPick",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "0.475",
+        "item_collection" : "FLOW 1/2",
+        "collection_name" : "Jerry’s Drops",
+        "collector_profileName" : "Jerry Clark",
+        "imgs" : ["/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab1.png", "/assets/imgs/collections/slide_tab2.png", "/assets/imgs/collections/slide_tab3.png"]
+    },
+    {
+        "id": 8,
+        "title" : "Art Tech Reus Fusion",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "120",
+        "item_collection" : "FLOW 67/6",
+        "collection_name" : "Lusi’s Drops",
+        "collector_profileName" : "Lusi Mike",
+        "imgs" : ["/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab4.png", "/assets/imgs/collections/slide_tab5.png", "/assets/imgs/collections/slide_tab6.png"]
+    },
+    {
+        "id": 9,
+        "title" : "Art Tech Reus Fusion",
+        "subText" : "Time Remaing",
+        "description" : "Click My Collections and set up your collection. Connect your social links, a description, profile & banner images, and set a secondary.",
+        "prise" : "120",
+        "item_collection" : "FLOW 67/6",
+        "collection_name" : "Lusi’s Drops",
+        "collector_profileName" : "Lusi Mike",
+        "imgs" : ["/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png", "/assets/imgs/collections/2.png", "/assets/imgs/collections/1.png"],
+        "tab_imgs" : ["/assets/imgs/collections/slide_tab4.png", "/assets/imgs/collections/slide_tab5.png", "/assets/imgs/collections/slide_tab6.png"]
+    }
+
+]
